@@ -83,7 +83,7 @@ Move into the project
 cd vaasu-super-tailors
 ```
 
-Install dependencies
+Install dependencies (npm only — this project doesn't use bun/yarn)
 
 ```bash
 npm install
