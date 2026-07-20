@@ -1,6 +1,6 @@
-# 🧵 Vasu Super Tailors
+# 🧵 Vaasu Super Tailors
 
-A modern, responsive business website for **Vasu Super Tailors**, showcasing premium men's tailoring services in **Erode, Tamil Nadu**.
+A modern, responsive business website for **Vaasu Super Tailors**, showcasing premium men's tailoring services in **Erode, Tamil Nadu**.
 
 Designed with a clean luxury aesthetic, the website helps customers discover services, contact the shop, and locate the store with ease.
 
@@ -50,7 +50,7 @@ Designed with a clean luxury aesthetic, the website helps customers discover ser
 ## 📂 Project Structure
 
 ```
-vasu-super-tailors/
+vaasu-super-tailors/
 │
 ├── src/
 │   ├── assets/
@@ -74,13 +74,13 @@ vasu-super-tailors/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Pranav-itsmee/vasu-super-tailors.git
+git clone https://github.com/Pranav-itsmee/vaasu-super-tailors.git
 ```
 
 Move into the project
 
 ```bash
-cd vasu-super-tailors
+cd vaasu-super-tailors
 ```
 
 Install dependencies
@@ -98,7 +98,7 @@ npm run dev
 Open your browser
 
 ```
-http://localhost:5173
+http://localhost:8080/vaasu-super-tailors/
 ```
 
 ---
@@ -131,7 +131,7 @@ npm run deploy
 
 ## 🏪 Business Information
 
-**Vasu Super Tailors**
+**Vaasu Super Tailors**
 
 📍 Cutchery Street, Opp. Thaluk Office  
 Marapalam, Erode  
@@ -209,7 +209,7 @@ git push origin feature/NewFeature
 
 ## 📄 License
 
-This project is developed for **Vasu Super Tailors**.
+This project is developed for **Vaasu Super Tailors**.
 
 ---
 

@@ -72,10 +72,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Vasu Super Tailors — Men's Tailoring in Erode" },
-      { name: "description", content: "Specialist men's stitching in Marapalam, Erode. Bespoke shirts, suits, traditional wear and alterations. 5.0 Google rated." },
-      { name: "author", content: "Vasu Super Tailors" },
-      { property: "og:site_name", content: "Vasu Super Tailors" },
+      { title: "Vaasu Super Tailors — Men's Tailoring in Erode" },
+      {
+        name: "description",
+        content:
+          "Specialist men's stitching in Marapalam, Erode. Bespoke shirts, suits, traditional wear and alterations. 5.0 Google rated.",
+      },
+      { name: "author", content: "Vaasu Super Tailors" },
+      { property: "og:site_name", content: "Vaasu Super Tailors" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
     ],

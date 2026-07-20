@@ -7,7 +7,7 @@ const indexHtml = path.join(clientDir, "index.html");
 const notFoundHtml = path.join(clientDir, "404.html");
 const noJekyll = path.join(clientDir, ".nojekyll");
 const serverEntry = path.resolve("dist", "server", "index.js");
-const basePath = "/vasu-super-tailors/";
+const basePath = "/vaasu-super-tailors/";
 
 const serverModule = await import(pathToFileURL(serverEntry).href);
 const response = await serverModule.default.fetch(

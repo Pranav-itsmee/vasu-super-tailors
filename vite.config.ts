@@ -9,6 +9,6 @@ import { defineConfig } from "@lovable.dev/vite-tanstack-config";
 // GitHub Pages needs the app to resolve from the repository subpath.
 export default defineConfig({
   vite: {
-    base: "/vasu-super-tailors/",
+    base: "/vaasu-super-tailors/",
   },
 });
